@@ -1,7 +1,8 @@
 import React from 'react';
 import './style.css';
+import TodoList from './TodoList';
 function App() {
-  return null;
+  return <TodoList />;
 }
 
 export default App;
